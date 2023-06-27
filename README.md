@@ -54,6 +54,8 @@
   <li style="margin-bottom: 10px;">Clone the GitHub repository for Ask Annie.</li>
   <li style="margin-bottom: 10px;">Navigate to the project directory.</li>
   <li style="margin-bottom: 10px;">Install the required dependencies.</li>
+    <li style="margin-bottom: 10px;">Set-Up Firebase</li>
+
   <li style="margin-bottom: 10px;">Connect the app to the AI chatbot API by providing the necessary credentials.</li>
     <li style="margin-bottom: 10px;">Get API Key Here - https://cohere.com</li>
 
@@ -61,5 +63,4 @@
 </ol>
 
 <p style="line-height: 1.5;">Follow the above steps to set up and run Ask Annie on your local machine.</p>
-
 

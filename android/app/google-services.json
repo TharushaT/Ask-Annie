@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239805687021",
+    "firebase_url": "https://index-cca5b-default-rtdb.firebaseio.com",
+    "project_id": "index-cca5b",
+    "storage_bucket": "index-cca5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239805687021:android:5e1d8b117ab342668898e4",
+        "android_client_info": {
+          "package_name": "com.tharushat.film.moviedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239805687021-6l89vjjii14ivc8cm1jgl56ugvdnr5ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPlESJpy2IdixLlmRNpTXKebLWAecgYxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239805687021-6l89vjjii14ivc8cm1jgl56ugvdnr5ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

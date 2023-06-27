@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>239805687021-0bk7etfjpbenfkc11mitlbbj7ptgp6rg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.239805687021-0bk7etfjpbenfkc11mitlbbj7ptgp6rg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBT7E_xi6nbBgbcMruhskULitskaS52rc4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>239805687021</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tharushat.film.moviedatabase</string>
+	<key>PROJECT_ID</key>
+	<string>index-cca5b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>index-cca5b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:239805687021:ios:a8fb3a86d645ec4f8898e4</string>
+	<key>DATABASE_URL</key>
+	<string>https://index-cca5b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
